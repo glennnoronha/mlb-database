@@ -13,7 +13,7 @@ This project is a complete relational database system designed to model and mana
   - Queries with joins and aggregates
   - DESC/SELECT screenshots for validation
 
-- `MLB_Project_FullSection5.sql` – SQL script file containing:
+- `MLB_Project` – SQL script file containing:
   - Full `CREATE TABLE` statements
   - `INSERT INTO` statements for:
     - All 26-man Opening Day rosters (Blue Jays & Yankees)
